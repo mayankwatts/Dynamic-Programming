@@ -37,4 +37,6 @@ int main()
 		A.push_back(x);
 	}
 	cout<<solve(n,A)<<endl;
+	
+	return 0;
 }
