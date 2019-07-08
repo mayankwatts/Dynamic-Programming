@@ -37,4 +37,6 @@ int main(){
 
     cout << getMin(arr, n);
     delete []arr;
+   
+   return 0;
 }
